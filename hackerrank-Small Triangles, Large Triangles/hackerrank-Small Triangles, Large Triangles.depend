@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719768184 source:c:\users\foda\documents\ieee tasks\week_11\hackerrank-small triangles, large triangles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
